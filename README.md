@@ -7,5 +7,5 @@ Also it was first launched 32-Bit. there's a fun fact is it was developed using 
 It requires may 892MB of ram but We think 1GB or 2GB ram will be better to run this system. and 16GB atleast requried, but 20GB and up is better for more workings!
 Please try it to a Low Configuration!
 
-## [Download a copy of Windows 10 Lite X86 (ISO file)](https://drive.google.com/uc?export=download&id=1YMpOUF6Y6q8hHvQEjTLiQm3a3eN9AgUy)
+## [Download a copy of Windows 10 Lite X86 (ISO file)](https://drive.google.com/uc?export=download&id=13-c7zdSBxeF56O7FMPkVS1GvSUk3S7Fc)
 Be happy to use and feel free to make it own
