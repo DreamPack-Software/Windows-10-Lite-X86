@@ -1,6 +1,6 @@
 # Windows 10 Lite X86
-Windows 10 Lite X86 is a 32-Bit Lightweight Operating System software developed by @MAXNETAR. He's available in some social media like in YouTube. Most of some developed us and he had hardtime to develop this.
-This software includes Microsoft Office 2016 Pro Plus, AOL Instant Messenger, AnyDesk, and some ISO editing and burning softwares and File Unlocker! and default browser is Firefox
+Windows 10 Lite X86 is a 32-Bit Lightweight Operating System software developed by MAXNETAR. He's available in some social media like in YouTube. Most of some developed us and he had hardtime to develop this.
+This software includes Microsoft Office 2010, AOL Instant Messenger, AnyDesk, and some ISO editing and burning softwares and File Unlocker! and default browser is Brave
 This software is pre-activated copy
 It's very free to use!
 Also it was first launched 32-Bit. there's a fun fact is it was developed using a Low End Computer... with 892MB of ram and 20-32GB Hard Disk with no Graphics Card. We talked about the 32-Bit Development
